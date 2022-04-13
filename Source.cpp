@@ -29,6 +29,9 @@ void printPrime(int n)
 
 int main()
 {
-    int n = 70;
+ 
+    int n = 73233;
+
+ 
     printPrime(n);
 }
